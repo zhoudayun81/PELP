@@ -1,3 +1,5 @@
+# PELP: Prioneer Event Log Prediction
+
 /code folder contains all code for all kinds of experiments.
 Modify config.ini params to run the experiments in different settings.
 
