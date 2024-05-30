@@ -9,3 +9,4 @@ The code will only run the files in the root folder of /input folder, any files 
 Please do not change the name of the /code and /input folder.
 
 Run command: python main.py
+Python3 is used.
