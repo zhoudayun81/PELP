@@ -21,6 +21,6 @@ $ python main.py
 to start running the experiment.
 
 * Please note that the code runs multi-threads, change the parameter `threads = ` under `[Program]` part to a number that is suitable to the computer you are using.
-* Please do not change the name of the /code and /input folders.
+* Please do not change the name of the */code* and */input* folders.
 
 If you need help or more explanation, please [Contact Us](mailto:w.zhou26@student.unimelb.edu.au) for assistance.
